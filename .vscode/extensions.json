@@ -9,13 +9,15 @@
     "antfu.where-am-i",
     "antfu.open-in-github-button",
     "lokalise.i18n-ally",
-
+    "antfu.file-nesting",
     // themes & icons
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
     "file-icons.file-icons",
     "sainnhe.gruvbox-material",
-
+    "catppuccin.catppuccin-vsc",
+    "catppuccin.catppuccin-vsc-icons",
+    
     // life savers!
     "dbaeumer.vscode-eslint",
     "Vue.volar",
@@ -32,6 +34,15 @@
     "mpontus.tab-cycle",
     "naumovs.color-highlight",
     "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+
+    // new customzies
+    "github.remotehub",
+    "antfu.goto-alias",
+    "shd101wyy.markdown-preview-enhanced",
+    "bierner.markdown-preview-github-styles",
+    "wallabyjs.quokka-vscode",
+    "alibaba-cloud.tongyi-lingma",
+    "ritwickdey.liveserver"
   ]
 }
